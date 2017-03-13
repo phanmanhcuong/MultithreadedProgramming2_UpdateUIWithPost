@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultithreadedProgramming_UpdateUIWithPost</string>
+    <string name="btn">Click to flip coins</string>
+</resources>
